@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Ph.D. candidate in bioinformatics and bioengineering at the University of California Santa Cruz, where I research the intersection of early human neural development and tRNAs. My passion for science started from a young age and has driven me to pursue a rigorous and interdisciplinary education in biology, computer science, and engineering. My dedication to my research has allowed me to win multiple poster awards at conferences and develop a robust set of skills for computational analysis and machine learning.
+I am a recent Ph.D. graduate focusing on the convergence of early human neural development and tRNA dynamics. My work has delved into the intricate patterns of hominid evolution through cutting-edge T2T genomics, creating comprehensive analytical tools. A lifelong passion for science has fueled my pursuit of a thorough, multidisciplinary education, culminating in advanced expertise in biology, computer science, and engineering. My commitment to research is reflected in my accolades, including multiple poster awards at scientific conferences. I pride myself on my strong computational analysis capabilities and proficiency in machine learning, which are the cornerstones of my bioinformatics approach.
 
 <!--
 **alba1735/alba1735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
