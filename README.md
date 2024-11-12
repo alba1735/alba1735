@@ -1,6 +1,6 @@
 ### About Me
 
-I am a recent Ph.D. graduate focusing on the convergence of early human neural development and tRNA dynamics. My work has delved into the intricate patterns of hominid evolution through cutting-edge T2T genomics, creating comprehensive analytical tools. A lifelong passion for science has fueled my pursuit of a thorough, multidisciplinary education, culminating in advanced expertise in biology, computer science, and engineering. My commitment to research is reflected in my accolades, including multiple poster awards at scientific conferences. I pride myself on my strong computational analysis capabilities and proficiency in machine learning, which are the cornerstones of my bioinformatics approach.
+I am a Ph.D. bioinformatician focusing on the convergence of early human neural development and tRNA dynamics. My work has delved into the intricate patterns of hominid evolution through cutting-edge T2T genomics, creating comprehensive analytical tools. A lifelong passion for science has fueled my pursuit of a thorough, multidisciplinary education, culminating in advanced expertise in biology, computer science, and engineering. My commitment to research is reflected in my accolades, including multiple poster awards at scientific conferences. I pride myself on my strong computational analysis capabilities and proficiency in machine learning, which are the cornerstones of my bioinformatics approach.
 
 <!--
 **alba1735/alba1735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
